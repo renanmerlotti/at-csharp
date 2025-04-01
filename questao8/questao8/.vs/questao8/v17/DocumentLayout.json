@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Renan\\Desktop\\at-c#\\questao8\\questao8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BB7612-604A-462A-9D72-2CE6BC680F0F}|questao8.csproj|c:\\users\\renan\\desktop\\at-c#\\questao8\\questao8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BB7612-604A-462A-9D72-2CE6BC680F0F}|questao8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BB7612-604A-462A-9D72-2CE6BC680F0F}|questao8.csproj|c:\\users\\renan\\desktop\\at-c#\\questao8\\questao8\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BB7612-604A-462A-9D72-2CE6BC680F0F}|questao8.csproj|solutionrelative:gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BB7612-604A-462A-9D72-2CE6BC680F0F}|questao8.csproj|c:\\users\\renan\\desktop\\at-c#\\questao8\\questao8\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BB7612-604A-462A-9D72-2CE6BC680F0F}|questao8.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\Renan\\Desktop\\at-c#\\questao8\\questao8\\Gerente.cs",
+              "RelativeDocumentMoniker": "Gerente.cs",
+              "ToolTip": "C:\\Users\\Renan\\Desktop\\at-c#\\questao8\\questao8\\Gerente.cs",
+              "RelativeToolTip": "Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:09:54.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Renan\\Desktop\\at-c#\\questao8\\questao8\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario.cs",
+              "ToolTip": "C:\\Users\\Renan\\Desktop\\at-c#\\questao8\\questao8\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:08:28.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renan\\Desktop\\at-c#\\questao8\\questao8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Renan\\Desktop\\at-c#\\questao8\\questao8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:08:03.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

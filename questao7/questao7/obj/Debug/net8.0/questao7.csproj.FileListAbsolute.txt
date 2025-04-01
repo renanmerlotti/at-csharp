@@ -1,0 +1,14 @@
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\bin\Debug\net8.0\questao7.exe
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\bin\Debug\net8.0\questao7.deps.json
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\bin\Debug\net8.0\questao7.runtimeconfig.json
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\bin\Debug\net8.0\questao7.dll
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\bin\Debug\net8.0\questao7.pdb
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\obj\Debug\net8.0\questao7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\obj\Debug\net8.0\questao7.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\obj\Debug\net8.0\questao7.AssemblyInfo.cs
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\obj\Debug\net8.0\questao7.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\obj\Debug\net8.0\questao7.dll
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\obj\Debug\net8.0\refint\questao7.dll
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\obj\Debug\net8.0\questao7.pdb
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\obj\Debug\net8.0\questao7.genruntimeconfig.cache
+C:\Users\Renan\Desktop\at-c#\questao7\questao7\obj\Debug\net8.0\ref\questao7.dll
